@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 811.0, 157.0, 545.0, 480.0 ],
+		"rect" : [ 772.0, 197.0, 545.0, 460.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -46,7 +46,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 360.25, 61.0, 150.0, 62.0 ],
-					"text" : "Number message that resets the frequency of the number box to 140 upon press."
+					"text" : "Number message that resets the frequency of the number box to 150 upon press."
 				}
 
 			}
@@ -94,7 +94,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 420.5, 127.0, 29.5, 22.0 ],
-					"text" : "140"
+					"text" : "150"
 				}
 
 			}
@@ -129,7 +129,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 144.0, 140.0, 24.0, 24.0 ]
+					"patching_rect" : [ 144.0, 127.0, 24.0, 24.0 ]
 				}
 
 			}
